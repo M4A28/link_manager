@@ -12,20 +12,21 @@
     <color name="gray">#9E9D9D</color>
     <color name="light_gray">#CFCECE</color>
 
-    <color name="primary_dark">#2E7D32</color>
-    <color name="primary">#40a33c</color>
-    <color name="accent">#66BB6A</color>
-    <color name="primary_light">#A5D6A7</color>
-    <color name="primary_background">#E8F5E9</color>
+    <color name="primary_dark">#E53935</color>
+    <color name="primary">#E53935</color>
+    <color name="accent">#EF5350</color>
+    <color name="primary_light">#D6A5A5</color>
+    <color name="primary_background">#F5E8E8</color>
     <color name="like_black">#212121</color>
     <color name="secondary_text">#727272</color>
     <color name="divider">#B6B6B6</color>
     <color name="background">#EEEEEE</color>
     <color name="set_off">#FFFFFF</color>
+    <color name="dark_gray">#5A5A5A</color>
 
+    <color name="random_color">#35E5DF</color>
     <color name="ripple_primary">@color/primary_light</color>
     <color name="ripple_high_light">#FFF59D</color>
-
     <color name="delete">#F44336</color>
     <color name="ripple_delete">#FFCDD2</color>
     <color name="fab_starred">#fca503</color>

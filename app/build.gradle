@@ -43,6 +43,7 @@ android {
 
 dependencies {
     def room_version = "2.4.3"
+    def lottieVersion = "5.2.0"
     implementation 'androidx.appcompat:appcompat:1.5.1'
     implementation 'androidx.core:core-ktx:1.7.0'
 
@@ -95,5 +96,8 @@ dependencies {
 
     // RxJava
     implementation "io.reactivex.rxjava3:rxjava:3.1.5"
+
+    // lottie animation
+    implementation 'com.airbnb.android:lottie:$lottieVersion'
 
 }
